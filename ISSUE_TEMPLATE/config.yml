@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Burn & Claim"
+    url: "https://burnandclaim.com"
+    about: "The app, the FAQ and how to reach the team."
+  - name: "Report a security problem"
+    url: "https://github.com/burnandclaim/.github/blob/main/SECURITY.md"
+    about: "Privately, never in a public issue."
